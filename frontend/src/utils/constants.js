@@ -1,4 +1,4 @@
-export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000/api';
+export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://edviron-assignment-microservice-for-a.onrender.com';
 
 export const PAYMENT_STATUS = {
   SUCCESS: 'SUCCESS',
