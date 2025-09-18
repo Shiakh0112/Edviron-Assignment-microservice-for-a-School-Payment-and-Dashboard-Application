@@ -59,7 +59,7 @@ school-payments-app/
 
 ### 🔹 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/school-payments-app.git
+git clone https://github.com/Shiakh0112/Edviron-Assignment-microservice-for-a-School-Payment-and-Dashboard-Application/tree/main
 cd school-payments-app
 ```
 
