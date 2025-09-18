@@ -11,7 +11,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: process.env.FRONTEND_URL || "http://localhost:3000",
+    origin:  "https://edviron-assignment-microservice-for-a-sx4d.onrender.com/",
     credentials: true,
   })
 );
